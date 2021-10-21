@@ -27,7 +27,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.aurora.store"
+        applicationId "com.aurora.store.kitkat"
         minSdkVersion 19
         targetSdkVersion 30
 
